@@ -13,3 +13,8 @@ Create or update a variable in a .env file
 ```bash
 	upsert-dotenv .env FOO bar # FOO=bar
 ```
+
+### Requirements
+
+-   Golang
+-   Make
